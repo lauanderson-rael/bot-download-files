@@ -3,7 +3,8 @@
 - Tenha o python instalado
 - Baixe o projeto
 - instale a biblioteca selenium, digite no terminal --> pip install selenium
-- edite as linhas 21 e 64 do codigo, coloque um diretorio exixtente em seu computador
+- Crie uma pasta com o nome "relatorios" no mesmo diretorio do projeto
+- Edite as linhas 21 e 64 do codigo, coloque um diretorio existente em seu computador
 
 ### Criar executavel (Opcional)
 - Instale a biblioteca pyinstaller, digite no terminal --> pip install pyinstaller
